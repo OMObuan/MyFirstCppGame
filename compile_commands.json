@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/home/omo/文档/code_space/godot_space/MyFirst2DGameByCPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fPIC", "-g", "-Wall", "-Wextra", "-Weffc++", "-O0", "-std=c++20", "-Isrc", "-Igodot-cpp/gen/include", "-Igodot-cpp/include", "-Igodot-cpp/gdextension", "-o", "build/.objs/myfirst2dgamebycpp/linux/x86_64/debug/src/player.cpp.o", "src/player.cpp"],
+  "file": "src/player.cpp"
+},
+{
+  "directory": "/home/omo/文档/code_space/godot_space/MyFirst2DGameByCPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fPIC", "-g", "-Wall", "-Wextra", "-Weffc++", "-O0", "-std=c++20", "-Isrc", "-Igodot-cpp/gen/include", "-Igodot-cpp/include", "-Igodot-cpp/gdextension", "-o", "build/.objs/myfirst2dgamebycpp/linux/x86_64/debug/src/register.cpp.o", "src/register.cpp"],
+  "file": "src/register.cpp"
+},
+{
+  "directory": "/home/omo/文档/code_space/godot_space/MyFirst2DGameByCPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fPIC", "-g", "-Wall", "-Wextra", "-Weffc++", "-O0", "-std=c++20", "-Isrc", "-Igodot-cpp/gen/include", "-Igodot-cpp/include", "-Igodot-cpp/gdextension", "-o", "build/.objs/myfirst2dgamebycpp/linux/x86_64/debug/src/mob.cpp.o", "src/mob.cpp"],
+  "file": "src/mob.cpp"
+}]

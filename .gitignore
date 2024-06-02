@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+
+build/
+
+.cache/
+
+.vscode/
+
+.xmake/
+
